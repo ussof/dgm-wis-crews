@@ -8,7 +8,7 @@ This workshop is co organazied by DGM and WMO under the CREWS initiative.
 CREWS is a mechanism that funds Least Developed Countries (LDC) and Small Island Developing States (SIDS) for risk informed early warning services, implemented by 3 partners, based on clear operational procedures.
 
 ### Intended public
-##### This workshop is organised in favor of xx WIS focal points from Africa RA1, below is the list of countries that were included to participate in this project:
+This workshop is organised in favor of xx WIS focal points from Africa RA1, below is the list of countries that were included to participate in this project:
 -
 -
 -
