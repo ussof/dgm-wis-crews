@@ -2,9 +2,10 @@
 
 DGM Workshop page on WIS Metadata
 
-### Markdown
+### About the workshop
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This workshop is co organazied by DGM and WMO under the CREWS initiative
+CREWS is a mechanism that funds Least Developed Countries (LDC) and Small Island Developing States (SIDS) for risk informed early warning services, implemented by 3 partners, based on clear operational procedures.
 
 ```markdown
 Syntax highlighted code block
