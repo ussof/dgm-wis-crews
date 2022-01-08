@@ -9,16 +9,7 @@ CREWS is a mechanism that funds Least Developed Countries (LDC) and Small Island
 
 ### Intended public
 
-This workshop is organised in favor of xx WIS focal points from Africa RA1.
-Below is the list of countries that were included to participate in this project:
--
--
--
--
--
--
--
-
+This workshop is organised in favor of 24 WIS focal points from Africa RA1.
 
 ### Provisional plan for the workshop
 
